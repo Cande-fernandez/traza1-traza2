@@ -1,2 +1,4 @@
-# TRAZA-1
-Ejercicio 1 Java.
+# TRAZA1-TRAZA2
+Ejercicio 2 Java.
+Fernandez Candela
+50892
