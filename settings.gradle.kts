@@ -1,0 +1,1 @@
+rootProject.name = "traza-1"
